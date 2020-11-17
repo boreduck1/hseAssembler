@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/adelia/Desktop/ДЗ/авс_дз/threads/main.cpp
+algorithm
+-
+exception
+-
+fstream
+-
+iostream
+-
+mutex
+-
+sstream
+-
+thread
+-
+vector
+-
+

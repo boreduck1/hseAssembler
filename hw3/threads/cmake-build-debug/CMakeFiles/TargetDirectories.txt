@@ -1,0 +1,3 @@
+/Users/adelia/Desktop/ДЗ/авс_дз/threads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/adelia/Desktop/ДЗ/авс_дз/threads/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adelia/Desktop/ДЗ/авс_дз/threads/cmake-build-debug/CMakeFiles/threads.dir
