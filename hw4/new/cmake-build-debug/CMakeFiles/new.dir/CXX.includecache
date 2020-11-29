@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/adelia/Desktop/ДЗ/openmp/new/main.cpp
+omp.h
+/Users/adelia/Desktop/ДЗ/openmp/new/omp.h
+algorithm
+-
+exception
+-
+fstream
+-
+iostream
+-
+sstream
+-
+vector
+-
+ctime
+-
+
+/usr/local/include/omp.h
+stdlib.h
+-
+stdint.h
+-
+
