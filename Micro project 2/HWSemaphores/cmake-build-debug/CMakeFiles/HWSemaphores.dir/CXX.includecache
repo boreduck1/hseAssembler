@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/adelia/Desktop/DZ/avs13dec/HWSemaphores/main.cpp
+iostream
+-
+pthread.h
+-
+semaphore.h
+-
+string
+-
+thread
+-
+zconf.h
+-
+

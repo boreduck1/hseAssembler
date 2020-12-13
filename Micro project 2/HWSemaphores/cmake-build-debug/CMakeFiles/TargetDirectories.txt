@@ -1,0 +1,3 @@
+/Users/adelia/Desktop/DZ/avs13dec/HWSemaphores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/adelia/Desktop/DZ/avs13dec/HWSemaphores/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adelia/Desktop/DZ/avs13dec/HWSemaphores/cmake-build-debug/CMakeFiles/HWSemaphores.dir
